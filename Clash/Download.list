@@ -6,6 +6,7 @@ PROCESS-NAME,NetTransport.exe
 PROCESS-NAME,Thunder.exe
 PROCESS-NAME,ThunderVIP.exe
 PROCESS-NAME,DownloadSDKServer.exe
+PROCESS-NAME,xllite.exe
 PROCESS-NAME,Transmission.exe
 PROCESS-NAME,uTorrent.exe
 PROCESS-NAME,WebTorrent.exe
