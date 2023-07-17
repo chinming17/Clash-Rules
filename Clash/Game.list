@@ -544,6 +544,7 @@ payload:
   - DOMAIN-SUFFIX,xboxservices.com
   - DOMAIN-SUFFIX,xboxstudios.com
   - DOMAIN-SUFFIX,xbx.lv
+  - DOMAIN-SUFFIX,upc.ubisoft.com
   - DOMAIN-KEYWORD,epicgames
   - DOMAIN-KEYWORD,steambroadcast
   - DOMAIN-KEYWORD,steamstore
