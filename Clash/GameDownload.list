@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,steamcontent.com
 
 #Uplay遊戲下載
 PROCESS-NAME,upc.exe
+PROCESS-NAME,UplayWebCore.exe
 
 #Origin遊戲下載
 DOMAIN,origin-a.akamaihd.net
