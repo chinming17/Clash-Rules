@@ -7,7 +7,7 @@ DOMAIN-SUFFIX,cdn.mileweb.cs.steampowered.com.8686c.com
 DOMAIN-SUFFIX,steamcontent.com
 
 #Uplay遊戲下載
-DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
+PROCESS-NAME,upc.exe
 
 #Origin遊戲下載
 DOMAIN,origin-a.akamaihd.net
