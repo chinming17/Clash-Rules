@@ -9,5 +9,5 @@ host-suffix, www.douban.com, IP跳轉
 host-suffix, m.douban.com, IP跳轉
 host-suffix, music.163.com, 網易雲音樂
 host-suffix, api.iplay.163.com, 網易雲音樂
-host-suffix, link.yoodo.com.my, proxy
+host-suffix, link.yoodo.com.my, 全球加速
 host, napi.ithome.com, direct
