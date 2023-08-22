@@ -9,8 +9,6 @@ host, artery.douban.com, IP跳轉
 host-suffix, pypi.douban.com, IP跳轉
 host-suffix, www.douban.com, IP跳轉
 host-suffix, m.douban.com, IP跳轉
-host-suffix, doubanio.com, IP跳轉
-host-keyword, douban, IP跳轉
 host-suffix, music.163.com, 網易雲音樂
 host-suffix, api.iplay.163.com, 網易雲音樂
 host, napi.ithome.com, direct
