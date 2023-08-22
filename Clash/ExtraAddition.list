@@ -3,6 +3,7 @@
 host, functions.fileball.app, 全球加速
 host-suffix, link.yoodo.com.my, 全球加速
 host, smtp.gmail.com, Gmail服務
+host, smtp.mail.yahoo.com, Gmail服務
 host-suffix, porn.hentaihome.org, Emby
 host-suffix, 3brsk.sharepoint.com, Emby
 host, artery.douban.com, IP跳轉
