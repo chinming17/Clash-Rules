@@ -1,6 +1,7 @@
 # NAME: ExtraAddition
 
 host, functions.fileball.app, 全球加速
+host-suffix, link.yoodo.com.my, 全球加速
 host, smtp.gmail.com, Gmail服務
 host-suffix, porn.hentaihome.org, Emby
 host-suffix, 3brsk.sharepoint.com, Emby
@@ -8,7 +9,8 @@ host, artery.douban.com, IP跳轉
 host-suffix, pypi.douban.com, IP跳轉
 host-suffix, www.douban.com, IP跳轉
 host-suffix, m.douban.com, IP跳轉
+host-suffix, doubanio.com, IP跳轉
+host-keyword, douban, IP跳轉
 host-suffix, music.163.com, 網易雲音樂
 host-suffix, api.iplay.163.com, 網易雲音樂
-host-suffix, link.yoodo.com.my, 全球加速
 host, napi.ithome.com, direct
