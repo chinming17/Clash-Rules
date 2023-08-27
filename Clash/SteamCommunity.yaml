@@ -1,1 +1,9 @@
-
+# NAME: SteamCommunity
+# AUTHOR: chinming17
+# DOMAIN: 0
+# DOMAIN-KEYWORD: 0
+# DOMAIN-SUFFIX: 2
+# TOTAL: 2
+payload:
+  - DOMAIN-SUFFIX,steamcommunity-a.akamaihd.net
+  - DOMAIN-SUFFIX,steamcommunity.com
